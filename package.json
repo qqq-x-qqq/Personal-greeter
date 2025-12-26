@@ -1,0 +1,14 @@
+{
+  "name": "personal-greeter",
+  "displayName": "Personal Greeter",
+  "description": "Приветствует пользователя по имени",
+  "version": "1.0.0",
+  "publisher": "student",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": ["Other"],
+  "activationEvents": ["onStartupFinished"],
+  "main": "./extension.js",
+  "scripts": {}
+}
